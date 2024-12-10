@@ -62,9 +62,13 @@
 .memberAvatar {
   width: 100px;
   height: 100px;
+<<<<<<< HEAD
   background-color: transparent;
   border: 1px solid rgba(255, 255, 255, 0.505);
 
+=======
+  background-color: #E74C3C;
+>>>>>>> 51b8d93bc09f124fee35033c1a57f232a1db37f0
   border-radius: 50%;
   margin: 0 auto 1rem;
 }
